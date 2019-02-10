@@ -1,0 +1,18 @@
+{
+  "id": "keyit92/pronoun-coreference-resolution-by-dl-models",
+  "id_no": 2895649,
+  "title": "Pronoun Coreference Resolution By DL Models",
+  "code_file": "main_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "keyit92/gap-coreference",
+    "yekenot/fasttext-crawl-300d-2m"
+  ],
+  "kernel_sources": [],
+  "competition_sources": ["gendered-pronoun-resolution"]
+}
