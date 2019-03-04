@@ -1,0 +1,18 @@
+{
+  "id": "keyit92/coref-by-dl",
+  "id_no": 3051399,
+  "title": "Coref By DL",
+  "code_file": "coref-by-dl.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "keyit92/gap-coreference",
+    "yekenot/fasttext-crawl-300d-2m"
+  ],
+  "kernel_sources": [],
+  "competition_sources": ["gendered-pronoun-resolution"]
+}
