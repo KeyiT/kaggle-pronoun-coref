@@ -1,0 +1,20 @@
+{
+  "id": "keyit92/coref-by-rnn",
+  "id_no": 3149835,
+  "title": "Coref By RNN",
+  "code_file": "coref-by-rnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "yekenot/fasttext-crawl-300d-2m",
+    "keyit92/gap-coreference"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gendered-pronoun-resolution"
+  ]
+}
