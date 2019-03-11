@@ -1,0 +1,19 @@
+{
+  "id": "keyit92/coref-by-mapped-mlp-model-on-bert",
+  "id_no": 3201306,
+  "title": "Coref By Mapped MLP Model On BERT ",
+  "code_file": "coref-by-mapped-mlp-model-on-bert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "keyit92/gap-coreference"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gendered-pronoun-resolution"
+  ]
+}
