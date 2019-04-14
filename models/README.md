@@ -22,3 +22,8 @@
 1. Set the 'SUB_DATA_FOLDER' in 'ensemble-model.ipynb' to directory of the test set in the second stage.
 2. Set other '*_DATA_FOLDER' in 'ensemble-model.ipynb' to the output directory of 'coref-by-*.ipynb' accordingly.
 3. Run 'ensemble-model.ipynb'. "submission1.csv" is the result of model1. "submission2.csv" is the result of the model2.
+
+## Pretrained Model:
+1. BERT Base Uncased
+2. BERT Large Uncased
+3. GLOVE word embeddings from spacy
